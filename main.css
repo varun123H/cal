@@ -50,7 +50,7 @@ button{
 
     .container{
         
-        width: 80px;
+        width: 50px;
         
         
         
@@ -63,18 +63,18 @@ button{
     }
     
     input{
-        width: 290px;
+        width: 220px;
       
     }
     
     button{
-        width: 60px;
+        width: 40px;
        
     }
     
     .calculator{ 
        
-        width: 300px;
+        width: 220px;
        
         
     
